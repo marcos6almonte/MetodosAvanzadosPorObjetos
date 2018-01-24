@@ -1,0 +1,2 @@
+# clasemetodosavanzadosobjetos
+abstraccion
