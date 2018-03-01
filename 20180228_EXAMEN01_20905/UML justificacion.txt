@@ -1,0 +1,26 @@
+Diseño tipo Strategy Pattern
+
+Tenemos nuestra clase BANCO
+Una interfaz Transferencia
+Los 3 protocolos (JSON, CSV, HTTP)
+Los 3 formatos (JSON, CSV, TXT)
+
+La clase Banco tendra una instancia de la Interface Transferencia, 
+esta tambien implementara la funcion setFormat() que lo que pretende 
+hacer es establecer el formato dependiendo del banco del que 
+recibio o quiera enviar informacion.
+
+Cada banco pide información diferente para poder realizar una 
+transferencia para esto se crearon las clases de los formatos:
+tipoCSV
+tipoTXT
+tipoJSON
+
+
+Estas clases que van a heredar de nuestra clase Banco la funcion 
+setFormat() para asignar el formato indicado.
+
+La interface transferencia tiene el metodo transaccion()
+
+Las clases Protocol A,B,C implementaran el metodo transaccion() para
+establecer el protocolo en la transferencia de informacion.
