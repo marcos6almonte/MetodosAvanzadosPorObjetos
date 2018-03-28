@@ -1,0 +1,6 @@
+{
+"id_servicio":3001,
+"id_usuario":0002,
+"dia":"domingo",
+"hora":"12:00"
+}

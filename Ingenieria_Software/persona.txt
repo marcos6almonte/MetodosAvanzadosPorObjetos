@@ -1,0 +1,20 @@
+{  
+	"id_usuario:0001,
+        "id_familia":1001,
+        "nombre":"Marcos",
+        "apellido":"Almonte",
+        "fecha_Nacimiento":"02 Julio, 1993",
+        "telefono":6649023207,
+        "celular":6643199708,
+        "correo":"marcos6almonte@gmail.com",
+        "estado_civil":"soltero",
+        "invitado_por":"nadie",
+	"iglesia_procedencia":"ninguna",
+	"alergias":"ninguna",
+	"estado_simpatizante":"bautizado",
+	"status":"alejado",
+	"señas_particulares":"ninguna"
+
+},
+
+
