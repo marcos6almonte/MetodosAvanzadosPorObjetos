@@ -1,0 +1,5 @@
+{
+"id_area":5001,
+"nombre_area":"equipo pastoral",
+"id_usuario":0002
+}

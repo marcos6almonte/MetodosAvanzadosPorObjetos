@@ -1,0 +1,5 @@
+{
+"id_usuario":0002,
+"Nombre":"Juan",
+"Apellido":"Perez"
+}
