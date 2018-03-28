@@ -1,5 +1,0 @@
-{
-"id_departamento":4001,
-"id_usuario":0002,
-"nombre_departamento":"varones",
-}
