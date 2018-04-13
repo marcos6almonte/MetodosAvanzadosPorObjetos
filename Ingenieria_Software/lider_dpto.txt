@@ -1,6 +1,0 @@
-
-{
-"id_usuario":0006,
-"id_usuario_iglesia":0066,
-"id_departamento":4001
-}
