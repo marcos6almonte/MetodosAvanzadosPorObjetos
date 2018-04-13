@@ -1,0 +1,136 @@
+{  
+	"id_usuario:0001,
+        "nombre":"Christian",
+        "apellido":"Moreno",
+        "fecha_Nacimiento":"14/2/1986",
+        "telefono":6642345678,
+        "celular":6642345678,
+        "correo":"christian@txt.com",
+        "estado_civil":"casado",
+        "invitado_por":"",
+	"iglesia_procedencia":"redentor",
+	"alergias":"",
+	"estado_simpatizante":"bautizado",
+	"status":"activo",
+	"señas_particulares":""
+	"id_familia":1001,
+	"bitacora":
+
+},
+{  
+	"id_usuario:0002,
+        "nombre":"Adrian",
+        "apellido":"Favela",
+        "fecha_Nacimiento":"13/1/1994",
+        "telefono":6646238586,
+        "celular":6642518438,
+        "correo":"favel48@gmail.com",
+        "estado_civil":"soltero",
+        "invitado_por":"Evita Zazueta",
+	"iglesia_procedencia":"",
+	"alergias":"estacional + polvo",
+	"estado_simpatizante":"bautizado",
+	"status":"activo",
+	"señas_particulares":""
+	"id_familia":1002,
+	"bitacora":
+
+},
+{  
+	"id_usuario:0003,
+        "nombre":"Marco",
+        "apellido":"Ramirez",
+        "fecha_Nacimiento":"15/8/1990",
+        "telefono":6641234567,
+        "celular":6641234567,
+        "correo":"marco.ramirez@txt.com",
+        "estado_civil":"soltero",
+        "invitado_por":"Viri Rodriguez",
+	"iglesia_procedencia":"",
+	"alergias":"estacional + polvo",
+	"estado_simpatizante":"bautizado",
+	"status":"activo",
+	"señas_particulares":""
+	"id_familia":1003,
+	"bitacora":
+
+},
+{  
+	"id_usuario:0004,
+        "nombre":"Adriana",
+        "apellido":"Sanchez",
+        "fecha_Nacimiento":"23/12/1970",
+        "telefono":6646238586,
+        "celular":6642259468,
+        "correo":"adriana.favela@live.com",
+        "estado_civil":"casado",
+        "invitado_por":"Evita Zazueta",
+	"iglesia_procedencia":"",
+	"alergias":"gatos",
+	"estado_simpatizante":"bautizado",
+	"status":"activo",
+	"señas_particulares":""
+	"id_familia":1002,
+	"bitacora":
+
+},
+{  
+	"id_usuario:0005,
+        "nombre":"Alfredo",
+        "apellido":"Gonzalez Luevano",
+        "fecha_Nacimiento":"10/8/1974",
+        "telefono":6641029300,
+        "celular":6641029300,
+        "correo":"freddy@txt.com",
+        "estado_civil":"casado",
+        "invitado_por":"",
+	"iglesia_procedencia":"",
+	"alergias":"",
+	"estado_simpatizante":"bautizado",
+	"status":"activo",
+	"señas_particulares":""
+	"id_familia":1004,
+	"bitacora":
+
+},
+{  
+	"id_usuario:0006,
+        "nombre":"Juan Raul",
+        "apellido":"Rodriguez",
+        "fecha_Nacimiento":"17/4/1965",
+        "telefono":6641029300,
+        "celular":6641029300,
+        "correo":"jraul@txt.com",
+        "estado_civil":"casado",
+        "invitado_por":"",
+	"iglesia_procedencia":"",
+	"alergias":"",
+	"estado_simpatizante":"bautizado",
+	"status":"activo",
+	"señas_particulares":""
+	"id_familia":1005,
+	"bitacora":
+
+},
+{  
+	"id_usuario:0007,
+        "nombre":"Paloma",
+        "apellido":"Gamez",
+        "fecha_Nacimiento":"13/10/1995",
+        "telefono":6641029300,
+        "celular":6641029300,
+        "correo":"jraul@txt.com",
+        "estado_civil":"casado",
+        "invitado_por":"",
+	"iglesia_procedencia":"",
+	"alergias":"",
+	"estado_simpatizante":"convertido",
+	"status":"activo",
+	"señas_particulares":""
+	"id_familia":1006,
+	"bitacora":""
+
+}
+
+
+
