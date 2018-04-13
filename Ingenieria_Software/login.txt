@@ -1,7 +1,0 @@
-{
-"id_login":9001,
-"id_usuario":0001,
-"id_usuario_iglesia":"",
-"user":"Marcos Almonte",
-"password":"ensenada19"
-}
