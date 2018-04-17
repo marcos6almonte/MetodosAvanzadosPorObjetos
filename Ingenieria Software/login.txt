@@ -1,0 +1,27 @@
+{
+"user":"Christian Moreno",
+"password":"6642345678",
+"id_iglesia_personal":0011
+},
+{
+"user":"Adrian Favela",
+"password":"6642518434",
+"id_iglesia_personal":0022
+},
+{
+"user":"Marco Ramirez",
+"password":"6641234567",
+"id_iglesia_personal":0033
+},
+{
+"user":"Alfredo Gonzalez Luevano",
+"password":"6641029300",
+"id_iglesia_personal":0055
+},
+{
+"user":"Juan Raul Rodriguez",
+"password":"6641029300",
+"id_iglesia_personal":0066
+}
+
+
