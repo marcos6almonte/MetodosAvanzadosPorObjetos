@@ -1,0 +1,25 @@
+{
+"id_bitacora":9001,
+"fecha":12/03/18,
+"comentarios":"Lider Musica + Varones"
+},
+{
+"id_bitacora":9002,
+"fecha":12/03/18,
+"comentarios":"Jovenes + coros"
+},
+{
+"id_bitacora":9003,
+"fecha":12/03/18,
+"comentarios":"Lider Jovenes"
+},
+{
+"id_bitacora":9005,
+"fecha":12/03/18,
+"comentarios":"Pastor"
+},
+{
+"id_bitacora":9006,
+"fecha":12/03/18,
+"comentarios":"Co-Pastor (Grupo pastoral)"
+}
